@@ -39,7 +39,7 @@ const perguntas = [
                 afirmacao: "<b>Pragmatismo</b> A gestão se fortalece com a participação sa comunidade e o vínculo permite a contrução de um projeto pedagógico."
             },
             {
-                texto: "Inclusão de pr´ticas pedagógicas que dialoguem com o ambiente rural.",
+                texto: "Inclusão de práticas pedagógicas que dialoguem com o ambiente rural.",
                 afirmacao: "<b>Detalhista</b>, A prática pedagógica deve considerar o contexto rural,promovendo o desenvolvimento integral."
             }
         ]
