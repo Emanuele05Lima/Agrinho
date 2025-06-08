@@ -36,24 +36,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Participação ativa da comunidade na gestão escolar",
-                afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
+                afirmacao: "<b>Pragmatismo</b> A gestão se fortalece com a participação sa comunidade e o vínculo permite a contrução de um projeto pedagógico."
             },
             {
-                texto: "desigualdades na distribuição de recursos",
-                afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
+                texto: "Inclusão de pr´ticas pedagógicas que dialoguem com o ambiente rural.",
+                afirmacao: "<b>Detalhista</b>, A prática pedagógica deve considerar o contexto rural,promovendo o desenvolvimento integral."
             }
         ]
     },
     {
-        enunciado: "Por que a violência obstétrica está cada vez mais banalizada? ",
+        enunciado: "Quias os desafios as Escolas do campo enfrentam? ",
         alternativas: [
             {
-                texto: "Negligência médica",
-                afirmacao: "<b>Foco</b> Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda são utilizadas diariamente por profissionais da saúde."
+                texto: "Dificuldade de acesso geográfico",
+                afirmacao: "<b>Foco</b> O difícil acesso geográfico é problema recorrente de muitas comunidades rurais."
             },
             {
-                texto: "Desinformação da população.",
-                afirmacao: "<b>Curiosidade</b> Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado certa  importância. "
+                texto: "falta de formação específica para professores atuarem no campo.",
+                afirmacao: "<b>Curiosidade</b> A ausência deformação adequada para docentes causa impacto diretamente na qualidade do ensino oferecido. "
             }
         ]
     },
