@@ -6,36 +6,36 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
+        enunciado: "Quais são os príncipios da Educação do Campo?",
         alternativas: [
             {
-                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+                texto: "Valorização dos saberes e da cultura ali envolvida.",
+                afirmacao: "<b>Organização</b> A Educação do campo valoriza os saberes tradicionais e a cultura, que e fundamental para o processo de educação de crianças."
             },
             {
-                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
-                afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
+                texto: "Respeito á nacinalidade e ao modo de vida das comunidades rurais.",
+                afirmacao: "Você se destaca por seu <b>conhecimento</b>, O respeito a nacionalidade e aos modos de vida do campo é essencial,pois a escola deve dialogar com a realidade local do campo."
             }
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: "Práticas compatíveis com os objetivos da Escola do campo?",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
-                afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
+                texto: "Adaptação do calendário escolar ao clima da comunidade",
+                afirmacao: "A flexibilação do calendário escolar é uma prática comum para respeitar o ciclo do clima da região <b>sustentabilidade</b>.</b>."
             },
             {
-                texto: "Falta de Incentivos e Legislação",
-                afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
+                texto: "Formação de professoes com base nas realidades locais do campo.",
+                afirmacao: "A formação de professores deve considerar as especificidades <b>rigorosa </b> do campo capacitando para trabalgar com metodologias contextualizadas."
             }
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "Oque contribuem para uma Educação do Campo?",
         alternativas: [
             {
-                texto: "Acredito que Falta de investimento governamental",
+                texto: "Participação ativa da comunidade na gestão escolar",
                 afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
             },
             {
