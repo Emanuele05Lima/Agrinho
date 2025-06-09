@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Dificuldade de acesso geográfico",
-                afirmacao: "<b>Foco</b> O difícil acesso geográfico é problema recorrente de muitas comunidades rurais."
+                afirmacao: "<b>Localização</b> O difícil acesso geográfico é problema recorrente de muitas comunidades rurais."
             },
             {
                 texto: "falta de formação específica para professores atuarem no campo.",
-                afirmacao: "<b>Curiosidade</b> A ausência de formação adequada para docentes causa impacto diretamente na qualidade do ensino oferecido. "
+                afirmacao: "<b>Importância</b> A ausência de formação adequada para docentes causa impacto diretamente na qualidade do ensino oferecido. "
             }
         ]
     },
