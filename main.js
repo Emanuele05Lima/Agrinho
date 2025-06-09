@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Valorização dos saberes e da cultura ali envolvida.",
-                afirmacao: "<b>Organização</b> A Educação do campo valoriza os saberes tradicionais e a cultura, que e fundamental para o processo de educação de crianças."
+                afirmacao: "<b>Conhecimento</b> A Educação do campo valoriza os saberes tradicionais e a cultura, que e fundamental para o processo de educação de crianças."
             },
             {
                 texto: "Respeito á nacinalidade e ao modo de vida das comunidades rurais.",
-                afirmacao: "Você se destaca por seu <b>conhecimento</b>, O respeito a nacionalidade e aos modos de vida do campo é essencial,pois a escola deve dialogar com a realidade local do campo."
+                afirmacao: "Você se destaca por seu <b>Conhecimento</b>, O respeito a nacionalidade e aos modos de vida do campo é essencial,pois a escola deve dialogar com a realidade local do campo."
             }
         ]
     },
