@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Adaptação do calendário escolar ao clima da comunidade",
-                afirmacao: "A flexibilação do calendário escolar é uma prática comum para respeitar o ciclo do clima da região <b>sustentabilidade</b>.</b>."
+                afirmacao: "A flexibilação do calendário escolar é uma prática comum para respeitar o ciclo do clima da região <b>Importância</b>.</b>."
             },
             {
                 texto: "Formação de professoes com base nas realidades locais do campo.",
-                afirmacao: "A formação de professores deve considerar as especificidades <b>rigorosa </b> do campo capacitando para trabalgar com metodologias contextualizadas."
+                afirmacao: "A formação de professores deve considerar as especificidades <b>Importância</b> do campo capacitando para trabalgar com metodologias contextualizadas."
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Participação ativa da comunidade na gestão escolar",
-                afirmacao: "<b>Pragmatismo</b> A gestão se fortalece com a participação sa comunidade e o vínculo permite a contrução de um projeto pedagógico."
+                afirmacao: "<bIncentivo</b> A gestão se fortalece com a participação sa comunidade e o vínculo permite a contrução de um projeto pedagógico."
             },
             {
                 texto: "Inclusão de práticas pedagógicas que dialoguem com o ambiente rural.",
-                afirmacao: "<b>Detalhista</b>, A prática pedagógica deve considerar o contexto rural,promovendo o desenvolvimento integral."
+                afirmacao: "<b>Inclusão</b>, A prática pedagógica deve considerar o contexto rural,promovendo o desenvolvimento integral."
             }
         ]
     },
