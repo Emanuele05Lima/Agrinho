@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Quias os desafios as Escolas do campo enfrentam? ",
+        enunciado: "Quais os desafios as Escolas do campo enfrentam? ",
         alternativas: [
             {
                 texto: "Dificuldade de acesso geográfico",
