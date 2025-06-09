@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "falta de formação específica para professores atuarem no campo.",
-                afirmacao: "<b>Curiosidade</b> A ausência deformação adequada para docentes causa impacto diretamente na qualidade do ensino oferecido. "
+                afirmacao: "<b>Curiosidade</b> A ausência de formação adequada para docentes causa impacto diretamente na qualidade do ensino oferecido. "
             }
         ]
     },
